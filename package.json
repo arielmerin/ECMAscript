@@ -1,0 +1,21 @@
+{
+  "name": "ECMAscript",
+  "version": "1.0.0",
+  "description": "A brief introduction to ECMAscript6+ conventions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node --experimental-modules src/es6/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arielmerin/ECMAscript.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/arielmerin/ECMAscript/issues"
+  },
+  "homepage": "https://github.com/arielmerin/ECMAscript#readme"
+}
